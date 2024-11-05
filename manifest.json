@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "PinChat",
+    "version": "1.0",
+    "description": "Save and access important chatGPT links quickly.",
+    "permissions": ["storage"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
+    },
+    "icons": {
+      "128": "icon.png"
+    }
+  }
+  
